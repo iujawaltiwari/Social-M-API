@@ -1,0 +1,18 @@
+### Social Media App REST API using Nodejs and MongoDB
+
+### 
+
+1. install all required library (express, mongoose, dotenv, bcrypt, nodemon)
+
+2. Create Express Server
+
+3. Connect with MongoDB Database
+
+4. User Authentication API (Login, Resister)
+
+5. Post API (Create New Post, Update Post, Delete Post, Like and Dislike a Post,
+get ALL Post, get timeline post, get admin user posts)
+
+6. User API (Update Profile, delete profile , get a user, get user friend, follow & unfollow a user)
+
+
